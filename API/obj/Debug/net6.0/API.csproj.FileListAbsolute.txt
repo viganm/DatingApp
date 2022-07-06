@@ -52,3 +52,9 @@
 /home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/Humanizer.dll
 /home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/client/angular.json
+/home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/client/package-lock.json
+/home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/client/package.json
+/home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/client/tsconfig.app.json
+/home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/client/tsconfig.json
+/home/ndbit/RiderProjects/Dating-App/DatingApp/API/bin/Debug/net6.0/client/tsconfig.spec.json
